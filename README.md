@@ -18,7 +18,6 @@ A plataforma permitirá a geração aleatória de fichas, criação manual de pe
 - Criação de personagens
 - Geração aleatória de fichas
 - Biblioteca de classes e raças
-- Sistema de login
 - Salvamento de personagens
 
 
