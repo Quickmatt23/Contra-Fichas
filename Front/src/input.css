@@ -1,1 +1,13 @@
 @import "tailwindcss";
+body {
+    background-color: #ccc0a7;
+}
+
+button {
+    background-color: #554d35;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+}
